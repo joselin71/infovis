@@ -1,2 +1,2 @@
 # infovis
-# Visuailizacion y Publicacion en Tableau
+# Visualizacion y Publicacion en Tableau
